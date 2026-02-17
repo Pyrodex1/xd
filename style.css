@@ -1,27 +1,11 @@
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #e3e3e3;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-
-}
-
-.container{
-    text-align: center;
-    background-color: white;
-    padding: 2rem;
-    border-radius: 15px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-h1{
-    color: #1565c0;
-    margin-bottom: 0.5rem;
+    color:blue;
 }
 
 p{
-    color: #666;
+    color:white;
+}
+
+h1{
+    color:red;
 }
